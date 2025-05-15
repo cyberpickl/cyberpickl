@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyberpickl
-- 👀 I’m interested in Machine Learning, IOT and Computer Vision
+- 👀 I’m interested in Machine Learning, DevOps and system programming
 - 🌱 I’m currently learning Python and C++!
 - 💞️ I’m looking to collaborate on python mini projects
 
